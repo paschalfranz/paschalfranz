@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @paschalfranz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+## Hi, I'm Paschal 👋
 
-<!---
-paschalfranz/paschalfranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final-year Applied Computer Science student focused on **AI, backend development, and data-driven applications**.
+
+💡 Currently working on:
+- AI-powered after-sales assistant (internship project at Ahooga Bike)
+
+🛠️ Technologies:
+- Python, PHP (Laravel), Java
+- SQL / Databases
+- JavaScript
+- Artificial Intelligence & Business Intelligence
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/feed/
