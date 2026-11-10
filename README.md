@@ -1,6 +1,6 @@
 ## Hi, I'm Paschal 👋
 
-🎓 **Bachelor's in Applied Computer Science** from Thomas More University of Applied Sciences, Belgium, with a specialization in Artificial Intelligence.
+🎓 **Bachelor's in Applied Computer Science Graduate** from Thomas More University of Applied Sciences, Belgium, with a specialization in Artificial Intelligence.
 
 💡 I'm passionate about building practical solutions using AI, machine learning, software development and data-driven technologies.
 
